@@ -1,1 +1,1 @@
-this is a school projekt.
+this is a school project.
